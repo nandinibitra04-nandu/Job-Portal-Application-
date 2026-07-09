@@ -53,4 +53,4 @@ node server.js
 
 **Nandini Bitra**
 
-GitHub: https://github.com/nandinibitra04-nandu
+**Project Repository:** https://github.com/nandinibitra04-nandu/Job-Portal
