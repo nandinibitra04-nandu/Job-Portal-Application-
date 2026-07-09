@@ -31,18 +31,23 @@ The Job Portal Web Application is a full-stack web application developed to simp
 git clone https://github.com/nandinibitra04-nandu/Job-Portal.git
 ```
 
-2. Install dependencies
+2. Navigate to the Backend folder
+
+```bash
+cd Backend
+```
+
+3. Install dependencies
 
 ```bash
 npm install
 ```
 
-3. Start the server
+4. Start the server
 
 ```bash
 node server.js
 ```
-
 ## Author
 
 **Nandini Bitra**
